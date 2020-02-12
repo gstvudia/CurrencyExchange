@@ -1,0 +1,28 @@
+﻿/* Set the color and size of container */
+.div-header {
+    width: 100%;
+    height: 100px;
+    background-color: #20c997;
+}
+
+
+/*Set properties of Header Span*/
+#spnHeader {
+    padding-left: 350px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+.div-content {
+    padding-left: 350px;
+}
+
+.div-exchanged {
+    width: 500px;
+    border-radius: 25px;
+    height: auto;
+    background-color: #ebebeb;
+    font-size: 24px;
+    padding-left: 200px;
+}
